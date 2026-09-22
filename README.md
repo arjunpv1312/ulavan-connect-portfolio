@@ -2,7 +2,7 @@
 
 **Hackathon:** Tech for Good 2026  
 **Award:** Most Deployable Project  
-**Link to Original:** [Private repo owned by organizing team]
+**Link to Original:** [[Private repo owned by organizing team]](https://github.com/Build-with-AI-Code-for-Communities/hunger-team-382-ai-fortune)
 
 ## Problem
 
